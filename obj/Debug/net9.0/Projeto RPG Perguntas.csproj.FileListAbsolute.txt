@@ -1,0 +1,14 @@
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\bin\Debug\net9.0\Projeto RPG Perguntas.exe
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\bin\Debug\net9.0\Projeto RPG Perguntas.deps.json
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\bin\Debug\net9.0\Projeto RPG Perguntas.runtimeconfig.json
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\bin\Debug\net9.0\Projeto RPG Perguntas.dll
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\bin\Debug\net9.0\Projeto RPG Perguntas.pdb
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.AssemblyInfoInputs.cache
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.AssemblyInfo.cs
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.csproj.CoreCompileInputs.cache
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.dll
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\refint\Projeto RPG Perguntas.dll
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.pdb
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\Projeto RPG Perguntas.genruntimeconfig.cache
+C:\Users\terra\Desktop\C# trecos\Projeto RPG Perguntas\obj\Debug\net9.0\ref\Projeto RPG Perguntas.dll
